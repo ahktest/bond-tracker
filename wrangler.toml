@@ -4,8 +4,8 @@ compatibility_date = "2025-07-13"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "bond_coin_db"
-database_id = "otomatik oluşturulacak"
+database_name = "bond-tracker"
+database_id = "497ae0af-457f-4fa0-9151-ca876db2cf8f"
 
 [observability]
 enabled = true
